@@ -1,4 +1,4 @@
-# Data-structures-and-algorithms-projects
+# Computer-Structure-and-Language
 
 Sharif University - Fall 2020
 
